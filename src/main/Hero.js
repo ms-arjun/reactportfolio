@@ -15,7 +15,7 @@ const Hero = () => {
               <div className='flex justify-center items-center flex-col'>
                    
                  <div>
-                 <p className='text-[16px] sm:text-[20px]'>
+                 <p className='text-[16px] sm:text-[20px] ml-3 sm:ml-0 md:ml-0'>
                     <span className='text-3xl sm:text-6xl font-bold'>Hello World !</span>  <br /> <br />
                     <span className='text-2xl sm:text-4xl font-bold'> I'm Arjun.</span> from coimbatore, currently  pursuing MSc Computer Science.
                     Im very much  interested in FrontEnd development,looking for a FrontEnd developer  role in a reputed organization.

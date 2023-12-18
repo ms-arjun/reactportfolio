@@ -11,7 +11,7 @@ const Footer = () => {
                     <div><p className='font-semibold'>8838853930</p></div>
                 </div>
                 <div className='text-center'>Email
-                    <div><p className='font-semibold'>arjunmurugesan11@gmail.com</p></div>
+                    <div><p className='font-semibold'><a href="mailto:arjunmurugesan11@gmail.com">arjunmurugesan11@gmail.com</a></p></div>
                 </div>
                 <div className='text-center'>Social
                     <div className='font-semibold mt-2'>

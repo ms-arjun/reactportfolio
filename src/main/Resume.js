@@ -10,22 +10,22 @@ const Resume = () => {
                 <div>
                     <p className='sm:text-2xl text-xl font-bold'>Education</p>
                     <div className='ml-8'>
-                        <p>M.Sc - Computer Science</p>
+                        <p className='font-semibold'>M.Sc - Computer Science</p>
                         <p>Karpagam Academy Of Higher Education
-                             <br />   2022-2024 (80%) </p>
+                             <br />   2022-2024 (75%) </p>
                     </div>
                     <div className='ml-8'>
-                        <p>B.Sc - Computer Technology</p>
+                        <p className='font-semibold'>B.Sc - Computer Technology</p>
                         <p>Karpagam Academy Of Higher Education
+                             <br />   2018-2021 (74%) </p>
+                    </div>
+                    <div className='ml-8'>
+                        <p className='font-semibold'>HSC</p>
+                        <p>Vasavi Vidyalaya Matric Higher Secondary School
                              <br />   2017-2018 (88%) </p>
                     </div>
                     <div className='ml-8'>
-                        <p>HSC</p>
-                        <p>Vasavi Vidyalaya Matric Higher Secondary School
-                             <br />   2022-2024 (74%) </p>
-                    </div>
-                    <div className='ml-8'>
-                        <p>SSLC </p>
+                        <p className='font-semibold'>SSLC </p>
                         <p>Vasavi Vidyalaya Matric Higher Secondary School
                              <br />   2015-2016 (84%) </p>
                     </div>
